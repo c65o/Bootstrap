@@ -1,0 +1,28 @@
+:root{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-farve {
+    background-color: #dd766f;
+   
+}
+
+.btn:hover {
+    background-color: #be5e57;
+}
+
+.footer{
+    background-color: #e9ecef;
+    max-width: 87%;
+    margin: auto;
+    padding-top: 5px;
+    border-radius: 10px;
+}
+
+.footer ul{
+    list-style: none;
+}
+
+.bi{
+    color: #222429;
+}
